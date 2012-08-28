@@ -1,6 +1,6 @@
 //Bernice Johnson
-//VFW week 4
-//July 24, 2012
+//MiU week 1
+//August 28, 2012
 //json file
 
 var json = {
